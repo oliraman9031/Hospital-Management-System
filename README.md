@@ -42,8 +42,7 @@ $psql = 'C:\Program Files\PostgreSQL\15\bin\psql.exe'
 
 If PostgreSQL is installed in another location or version, update `$psql`
 accordingly. The schema script creates the tables and seeds the demo administrator
-account `admin` / `admin`. The old `hospital-mysql.sql` dump is not compatible with
-PostgreSQL and is retained for reference only.
+account `admin` / `admin`.
 
 ## Run the desktop app
 
